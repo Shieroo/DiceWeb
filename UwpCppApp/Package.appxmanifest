@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="31e0a1d1-c96a-4ad4-9b18-de95959b45d7"
-    Publisher="CN=samco"
+    Name="PublisherName.UwpCppApp"
+    Publisher="CN=PublisherName"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="31e0a1d1-c96a-4ad4-9b18-de95959b45d7" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="fe491625-0236-40de-8f72-8adbcf9845af" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>UwpCppApp</DisplayName>
-    <PublisherDisplayName>samco</PublisherDisplayName>
+    <PublisherDisplayName>PublisherName</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -35,7 +35,7 @@
         DisplayName="UwpCppApp"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="UwpCppApp"
+        Description="App1"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
